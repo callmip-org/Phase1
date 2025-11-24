@@ -1,4 +1,4 @@
-# Phase1
+# CalLMIP Phase 1
 
 Welcome to the CalLMIP Phase 1 Experiments!
 
