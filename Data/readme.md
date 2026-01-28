@@ -1,4 +1,4 @@
-### This folder contains sub-directories for the data for the Phase 1a and 1b experiments within the 1st Phase of CalLMIP.
+### This folder contains sub-directories for the data for the Phase 1a and Phase 1b experiments within the 1st Phase of CalLMIP.
 
 It also contains the general (not site specific) forcing files needed for site-scale simulations and calibrations. Specifically, atmospheric CO2 forcing file for the historical/transient runs. 
 
