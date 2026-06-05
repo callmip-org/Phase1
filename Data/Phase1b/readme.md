@@ -1,4 +1,4 @@
-This folder contains the flux observation files for the 21 sites to be used for the full "multi-site" calibration in Phase 1b. 
+This folder contains the **flux observation files for the 21 sites to be used for the full "multi-site" calibration** in Phase 1b. 
 
 The files include NEE, Qle and Qh variables and their uncertainties.
 
